@@ -1,5 +1,5 @@
 # Powder AI Tech Test
-Candidate Name:
+Candidate Name: Sina ALI SAMIR
 
 # Installation
 Setup environment with:
